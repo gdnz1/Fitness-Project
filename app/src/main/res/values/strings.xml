@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fitness Project1</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="register">Register</string>
+    <string name="login_now">Login now</string>
+    <string name="register_now">Register now</string>
+    <string name="diet">Diet</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="be_healty">BE HEALTY</string>
+    <string name="calculate">Calculate</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="calculate2">Calculate</string>
+    <string name="calories_350">Calories: 350</string>
+    <string name="pasta">Pasta</string>
+</resources>

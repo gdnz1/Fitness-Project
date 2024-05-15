@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nb_diet"
+        android:icon="@drawable/img_diet"
+        android:iconTint="#C65454"
+        android:title="@string/diet" />
+
+    <item android:id="@+id/nb_profile"
+        android:icon="@drawable/img_profile"
+        android:iconTint="#C65454"
+        android:title="@string/profile" />
+
+    <item android:id="@+id/nb_logout"
+        android:icon="@drawable/img_logout"
+        android:iconTint="#C65454"
+        android:title="@string/logout" />
+
+
+</menu>
